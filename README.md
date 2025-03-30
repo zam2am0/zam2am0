@@ -17,30 +17,22 @@
  </p>
  
  ---
- ## 🔥 Streak Stats
- 
- ---
- <p>
-     <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=n3sser96&theme=monokai-metallian&hide_border=true"/>
- </p>
  
  ## 🛠️ My Favorite Tools
  
- ### 👨‍💻 Programming and Markup Languages
- 
- <p>
-   
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
- </p>
+### 👨‍💻 Programming and Markup Languages
+
+[![C#](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp)
+[![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Acss)
+[![Dart](https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Adart)
+[![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml)
+[![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajava)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Aphp)
+[![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Apython)
+[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Asql)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript)
+
  
  ### 🧰 Frameworks and Libraries
  
@@ -52,13 +44,11 @@
      <a href="#"><img alt=DotNETCore" src="https://img.shields.io/badge/.NetCore-5C2D91?logo=.net&logoColor=white"></a>
      <a href="#"><img alt=Laravel" src="https://img.shields.io/badge/Laravel-E34F26?logo=laravel&logoColor=white"></a>
      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-20232a.svg?logo=flask&logoColor=%2361DAFB"></a>
-     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-21759B?logo=fastapi&logoColor=white"></a>
  </p>
  
  ### 🗄️ Databases and Cloud Hosting
  
  <p>
-     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
